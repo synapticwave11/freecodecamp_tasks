@@ -61,7 +61,10 @@ for i in range(11):
 
 
 #Indexing
-fruit
+fruit= ["apple", "banana", "cherry"]
+print(fruits[2]) #cherry
+
+print("End of FCC stuff")
 
 
 
