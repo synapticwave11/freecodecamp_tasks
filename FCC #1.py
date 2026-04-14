@@ -38,6 +38,7 @@ print("Integer:", my_integer_var) #11
 my_float_var= 1.11 #integer with decimal point
 print("Float:", my_float_var) #1.11
 
+
 #Booleans(true or false)
 my_boolean_var= True
 print("Boolean:", my_boolean_var) #True
