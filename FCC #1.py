@@ -59,6 +59,10 @@ print("Range:", my_range_var) #range(0, 11)
 for i in range(11):
     print(i)
 
+#Indexing
+fruit
+
+
 
 
 
