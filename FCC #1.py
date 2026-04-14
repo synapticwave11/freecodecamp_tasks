@@ -18,7 +18,6 @@ Student = {"Name": "Aluu",
            "Age":92, 
            "Marks": "97%"
 }
-
 print(Student["Age"])
 
 
