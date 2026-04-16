@@ -65,6 +65,13 @@ for i in range(11):
 fruit= ["apple", "banana", "cherry"]
 print(fruits[2]) #cherry
 
+#String contatenation
+first_name= "Alia"
+Last_name= "Singh"
+full_name= Last_name +"  " + first_name
+print("Full Name:", full_name) #Singh Alia
+
+
 print("End of FCC stuff")
 
 
