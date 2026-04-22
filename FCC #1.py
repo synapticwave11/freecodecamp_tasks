@@ -84,7 +84,8 @@ print(f"The current tempreture is {temperature} but it feels like {temperature+t
 #String Splicing 
 my_string= "Hello, World"
 print(my_string[5]) #o
-
+print(my_string[0:5]) #Hello
+print(my_string[7:12]) #World
 
 
 print("End of FCC stuff")
