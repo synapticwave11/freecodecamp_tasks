@@ -74,6 +74,7 @@ print("Full Name:", full_name) #Singh Alia
 #F Strings
 name= "ALU'
 age= 18
+print(f"My name is {name} and i am {age} years old")
 
 
 
