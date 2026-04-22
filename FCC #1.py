@@ -71,6 +71,9 @@ Last_name= "Singh"
 full_name= Last_name +"  " + first_name
 print("Full Name:", full_name) #Singh Alia
 
+#F Strings
+
+
 
 print("End of FCC stuff")
 
