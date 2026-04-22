@@ -73,6 +73,7 @@ print("Full Name:", full_name) #Singh Alia
 
 #F Strings
 name= "ALU'
+age= 18
 
 
 
