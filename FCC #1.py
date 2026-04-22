@@ -74,8 +74,12 @@ print("Full Name:", full_name) #Singh Alia
 #F Strings
 name= "ALU'
 age= 18
-print(f"My name is {name} and i am {age} years old")
+print(f"My name is {name} and i am {age} years old") #My name is ALU and I am 18 years old.
 
+#another example of f string
+temperature = 25
+temperature_2= 10
+print(f"The current tempreture is {temperature} but it feels like {temperature+temperature_2} ")
 
 
 print("End of FCC stuff")
