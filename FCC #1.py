@@ -93,6 +93,16 @@ print(my_string[-7]) #,
 print(my_string[1:8:2]) #elo ol
 print(my_string[7:4:-2]) #W,
 
+#BUILT IN STRING METHODS:
+
+#Uppercase, lowercase, replace
+
+print(my_string.upper()) #HELLO, WORLD!
+print(my_string.lower()) #hello, world!
+print(my_string.replace("World", "Universe")) #Hello, Universe!
+
+
+
 
 print("End of FCC stuff")
 
