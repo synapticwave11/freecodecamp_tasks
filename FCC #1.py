@@ -86,6 +86,12 @@ my_string= "Hello, World"
 print(my_string[5]) #o
 print(my_string[0:5]) #Hello
 print(my_string[7:12]) #World
+print(my_string[-7]) #,
+
+# To specify the increment between each index in the slice, you can use a third parameter in the slice notation. For example, to get every second character from the string, you can do:
+# Syntax:string[start:stop:step]
+print(my_string[1:8:2]) #elo ol
+print(my_string[7:4:-2]) #W,
 
 
 print("End of FCC stuff")
