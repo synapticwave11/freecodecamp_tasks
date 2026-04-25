@@ -102,8 +102,6 @@ print(my_string.lower()) #hello, world!
 print(my_string.replace("World", "Universe")) #Hello, Universe!
 
 
-
-
 print("End of FCC stuff")
 
 
