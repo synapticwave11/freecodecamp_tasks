@@ -108,6 +108,7 @@ split_words= my_str.split(",") #['Hello' , 'World']
 print(split_words) #['Hello', 'World']
 
 my_list = ['Hello', 'World']
+joined_my_str= ', '.join(my_list)
 
 
 
