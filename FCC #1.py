@@ -105,7 +105,7 @@ print(my_string.replace("World", "Universe")) #Hello, Universe!
 
 my_str= "Hello, World!"
 split_words= my_str.split(",") #['Hello' , 'World']
-
+print(split_words) #['Hello', 'World']
 
 
 print("End of FCC stuff")
