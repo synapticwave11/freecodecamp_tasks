@@ -107,6 +107,9 @@ my_str= "Hello, World!"
 split_words= my_str.split(",") #['Hello' , 'World']
 print(split_words) #['Hello', 'World']
 
+my_list = ['Hello', 'World']
+
+
 
 print("End of FCC stuff")
 
