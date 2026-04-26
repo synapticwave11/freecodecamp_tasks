@@ -111,7 +111,7 @@ my_list = ['Hello', 'World']
 joined_my_str= ', '.join(my_list)
 print(joined_my_str)
 
-
+# Strip
 
 
 print("End of FCC stuff")
