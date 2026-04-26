@@ -101,6 +101,9 @@ print(my_string.upper()) #HELLO, WORLD!
 print(my_string.lower()) #hello, world!
 print(my_string.replace("World", "Universe")) #Hello, Universe!
 
+#Join and Split
+
+
 print("End of FCC stuff")
 
 
