@@ -104,7 +104,8 @@ print(my_string.replace("World", "Universe")) #Hello, Universe!
 #Join and Split
 
 my_str= "Hello, World!"
-split
+split_words= my_str.split(",") #['Hello' , 'World']
+
 
 
 print("End of FCC stuff")
