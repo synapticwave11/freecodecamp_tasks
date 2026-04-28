@@ -112,6 +112,14 @@ joined_my_str= ', '.join(my_list)
 print(joined_my_str)
 
 # Strip
+text_1="helloooooossssh"
+print(text_1.strip("h"))
+
+#Varients
+text= "whatyoudoingw"
+print(text.lstrip("w"))
+text_2= "wwnothinggsw"
+print(text_2.rstrip("w"))
 
 
 print("End of FCC stuff")
