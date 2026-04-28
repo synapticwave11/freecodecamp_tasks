@@ -123,6 +123,7 @@ print(text_2.rstrip("w"))
 
 
 print("End of FCC stuff")
+print("wt the helly")
 
 
 
