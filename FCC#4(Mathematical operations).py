@@ -32,3 +32,5 @@ print(type(my_float_1)) # <class 'float'>
 print(type(my_float_2)) # <class 'float'>
 
 #Addition with floats
+sum_floats= my_float_1 + my_float_2 
+print('Float Addition: ', sum_floats) 
