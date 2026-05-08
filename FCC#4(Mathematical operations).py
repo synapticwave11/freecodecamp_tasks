@@ -100,6 +100,36 @@ my_float_1 = float(my_int_1)
 print(my_float_1)  # 56.0
 print(type(my_float_1))  # <class 'float'>
 
+#Int() function
+my_float = 12.92563
+my_int = int(my_float)
+
+print(my_int)  # 12
+print(type(my_int))  # <class 'int'>
+
+#Round() function
+my_int_1 = 4.798
+my_int_2 = 4.253
+
+rounded_int_1 = round(my_int_1)
+rounded_int_2 = round(my_int_2, 1)
+
+print(rounded_int_1) # 5
+print(rounded_int_2) # 4.3
+
+#abs() function
+num = -15
+
+absolute_value = abs(num)
+print(absolute_value) # 15
+
+#pow() function
+result_1 = pow(2, 3)  # Equivalent to 2 ** 3
+print(result_1)  # 8
+
+result_2 = pow(2, 3, 5)  # (2 ** 3) % 5
+print(result_2)  # 3
+
 
 
 
