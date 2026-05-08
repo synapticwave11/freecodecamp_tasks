@@ -43,4 +43,8 @@ print('Float Addition: ', sum_floats)
 diff_floats= my_float_1 - my_float_2
 print('Float Subtraction: ', diff_floats)
 
+#Division with floats
+div_floats= my_float_1 / my_float_2
+print('Float Division: ', div_floats)
+
 
