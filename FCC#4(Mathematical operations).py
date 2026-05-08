@@ -20,3 +20,8 @@ print('Integer Subtraction: ', diff_ints)
 #Multiplication with integers
 product_ints= my_int_1 * my_int_2
 print('Integer Multiplication: ', product_ints)
+
+#Division with integers
+div_ints= my_int_1 / my_int_2
+print('Integer Division: ', div_ints)
+
