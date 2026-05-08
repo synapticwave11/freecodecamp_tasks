@@ -28,3 +28,7 @@ print('Integer Division: ', div_ints)
 #Floats
 my_float_1= 3.14
 my_float_2= -0.001
+print(type(my_float_1)) # <class 'float'>
+print(type(my_float_2)) # <class 'float'>
+
+#Addition with floats
