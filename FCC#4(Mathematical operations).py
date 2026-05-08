@@ -78,6 +78,7 @@ mod_floats= float_1 % float_2
 
 print('Module of Integers: ', mod_ints)
 print('Module of Floats: ', mod_floats)
+
 #floor division operator
 floor_div_ints= int_1 // int_2
 floor_div_floats= float_1 // float_2
@@ -91,6 +92,17 @@ exp_floats= float_1 ** float_2
 
 print('Exponentiation of Integers: ', exp_ints)
 print('Exponentiation of Floats: ', exp_floats)
+
+#Float() function
+my_int_1 = 56
+my_float_1 = float(my_int_1)
+
+print(my_float_1)  # 56.0
+print(type(my_float_1))  # <class 'float'>
+
+
+
+
 
 
 
