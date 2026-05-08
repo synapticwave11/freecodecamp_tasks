@@ -64,3 +64,19 @@ print('Product of Integer and Float: ', product_int_and_float)
 div_int_and_float= my_int / my_float
 print('Division of Integer and Float: ', div_int_and_float)
 
+
+#Module operator
+
+int_1= 10
+int_2= 3
+
+float_1= 11.1
+float_2= 4.5
+
+mod_ints= int_1 % int_2
+mod_floats= float_1 % float_2
+
+print('Module of Integers: ', mod_ints)
+print('Module of Floats: ', mod_floats)
+
+
