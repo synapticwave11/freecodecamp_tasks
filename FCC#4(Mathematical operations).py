@@ -47,4 +47,20 @@ print('Float Subtraction: ', diff_floats)
 div_floats= my_float_1 / my_float_2
 print('Float Division: ', div_floats)
 
+# Mixed Operations
+
+my_int= 18
+my_float=56.70
+
+sum_int_and_float= my_int + my_float
+print('Sum of Integer and Float: ', sum_int_and_float)
+
+diff_int_and_float= my_int - my_float
+print('Difference of Integer and Float: ', diff_int_and_float)
+
+product_int_and_float= my_int * my_float
+print('Product of Integer and Float: ', product_int_and_float)
+
+div_int_and_float= my_int / my_float
+print('Division of Integer and Float: ', div_int_and_float)
 
