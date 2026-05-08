@@ -31,6 +31,10 @@ my_float_2= -0.001
 print(type(my_float_1)) # <class 'float'>
 print(type(my_float_2)) # <class 'float'>
 
+#Multiplication with floats
+product_floats= my_float_1 * my_float_2
+print('Float Multiplication: ', product_floats)
+
 #Addition with floats
 sum_floats= my_float_1 + my_float_2 
 print('Float Addition: ', sum_floats) 
@@ -38,4 +42,5 @@ print('Float Addition: ', sum_floats)
 #Subtraction with floats
 diff_floats= my_float_1 - my_float_2
 print('Float Subtraction: ', diff_floats)
+
 
