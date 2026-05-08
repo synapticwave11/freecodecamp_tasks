@@ -1,4 +1,4 @@
-#Numbers and Mathemathical operations
+#Numbers and Mathematical operations
 
 print("Numbers and Mathematical Operations")
 
@@ -25,23 +25,25 @@ print('Integer Multiplication: ', product_ints)
 div_ints= my_int_1 / my_int_2
 print('Integer Division: ', div_ints)
 
+
 #Floats
 my_float_1= 3.14
 my_float_2= -0.001
+
 print(type(my_float_1)) # <class 'float'>
 print(type(my_float_2)) # <class 'float'>
-
-#Multiplication with floats
-product_floats= my_float_1 * my_float_2
-print('Float Multiplication: ', product_floats)
 
 #Addition with floats
 sum_floats= my_float_1 + my_float_2 
 print('Float Addition: ', sum_floats) 
-
 #Subtraction with floats
 diff_floats= my_float_1 - my_float_2
 print('Float Subtraction: ', diff_floats)
+
+#Multiplication with floats
+
+product_floats= my_float_1 * my_float_2
+print('Float Multiplication: ', product_floats)
 
 #Division with floats
 div_floats= my_float_1 / my_float_2
@@ -78,6 +80,7 @@ mod_floats= float_1 % float_2
 
 print('Module of Integers: ', mod_ints)
 print('Module of Floats: ', mod_floats)
+
 
 #floor division operator
 floor_div_ints= int_1 // int_2
