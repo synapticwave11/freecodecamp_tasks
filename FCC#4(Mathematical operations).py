@@ -25,3 +25,6 @@ print('Integer Multiplication: ', product_ints)
 div_ints= my_int_1 / my_int_2
 print('Integer Division: ', div_ints)
 
+#Floats
+my_float_1= 3.14
+my_float_2= -0.001
