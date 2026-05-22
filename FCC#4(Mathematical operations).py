@@ -36,12 +36,12 @@ print(type(my_float_2)) # <class 'float'>
 #Addition with floats
 sum_floats= my_float_1 + my_float_2 
 print('Float Addition: ', sum_floats) 
+
 #Subtraction with floats
 diff_floats= my_float_1 - my_float_2
 print('Float Subtraction: ', diff_floats)
 
 #Multiplication with floats
-
 product_floats= my_float_1 * my_float_2
 print('Float Multiplication: ', product_floats)
 
@@ -133,13 +133,55 @@ print(result_1)  # 8
 result_2 = pow(2, 3, 5)  # (2 ** 3) % 5
 print(result_2)  # 3
 
+#Augmented Assignment Operators
 
+x = 10
+x += 5  # Equivalent to x = x + 5
+print(x)  # 15
+
+count = 14
+count -= 3
+print(count) # 11
+
+product = 65
+product *= 7
+print(product) # 455
+
+price = 100
+price /= 4
+
+print(price) # 25.0
+
+total_pages = 23
+total_pages //= 5
+
+print(total_pages) # 4 floor division
+
+bits = 35
+bits %= 2
+
+print(bits) # 1 modulo 
+
+power = 2
+power **= 3
+
+print(power) # 8
+
+#Without augmented assignment
+y = 10
+y = y + 5
+print(y)  # 15
+
+#With strings
+greet = 'Hello'
+greet += ' World'
+
+print(greet) # Hello World
+
+greet = 'Hello'
+greet *= 3
+
+print(greet) # HelloHelloHello repeats
 print("end")
-
-
-
-
-
-
 
 
